@@ -2,6 +2,7 @@ baseURL = "http://2017.chateaudeconstantine.com"
 languageCode = "fr-CH"
 title = "Château de Constantine"
 theme = "gohugo-theme-ananke"
+publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
