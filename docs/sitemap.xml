@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://2017.chateaudeconstantine.com/</loc>
+    <lastmod>2017-09-10T21:05:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://2017.chateaudeconstantine.com/chambres/</loc>
+    <lastmod>2017-09-10T21:05:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://2017.chateaudeconstantine.com/situation/</loc>
+    <lastmod>2017-09-10T21:05:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://2017.chateaudeconstantine.com/tarifs-et-prestations/</loc>
+    <lastmod>2017-09-10T21:05:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://2017.chateaudeconstantine.com/contact/</loc>
+    <lastmod>2017-09-10T21:05:02+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://2017.chateaudeconstantine.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://2017.chateaudeconstantine.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
