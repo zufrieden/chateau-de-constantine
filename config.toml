@@ -1,0 +1,26 @@
+baseURL = "http://2017.chateaudeconstantine.com"
+languageCode = "fr-CH"
+title = "Château de Constantine"
+theme = "gohugo-theme-ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
+Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  description = ""
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-light-red"
+  featured_image = "/images/chateau4.jpg"
