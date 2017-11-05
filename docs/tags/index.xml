@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Château de Constantine</title>
-    <link>http://2017.chateaudeconstantine.com/tags/</link>
+    <link>https://zufrieden.github.io/chateau-de-constantine/tags/</link>
     <description>Recent content in Tags on Château de Constantine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-CH</language>
     
-	<atom:link href="http://2017.chateaudeconstantine.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zufrieden.github.io/chateau-de-constantine/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

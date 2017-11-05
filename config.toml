@@ -1,4 +1,4 @@
-baseURL = "http://2017.chateaudeconstantine.com"
+baseURL = "https://zufrieden.github.io/chateau-de-constantine"
 languageCode = "fr-CH"
 title = "Château de Constantine"
 theme = "gohugo-theme-ananke"

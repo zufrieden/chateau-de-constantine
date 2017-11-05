@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Votre séjour on Château de Constantine</title>
-    <link>http://2017.chateaudeconstantine.com/chambres/</link>
+    <link>https://zufrieden.github.io/chateau-de-constantine/chambres/</link>
     <description>Recent content in Votre séjour on Château de Constantine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-CH</language>
     <lastBuildDate>Sun, 10 Sep 2017 21:05:02 +0200</lastBuildDate>
     
-	<atom:link href="http://2017.chateaudeconstantine.com/chambres/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zufrieden.github.io/chateau-de-constantine/chambres/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
